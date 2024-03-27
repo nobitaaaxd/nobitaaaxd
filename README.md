@@ -2,7 +2,7 @@
 <h3 align="center">𝐀 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐅𝐫𝐨𝐦  𝐃𝐞𝐥𝐡𝐢,𝐈𝐧𝐝𝐢𝐚 </h3>
 
 
-[<img src="https://github.com/nobitaaxd/nobitaaxd/blob/master/resources/hr.gif"/>](https://github.com/nobitaaxd)
+
 </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
@@ -35,7 +35,7 @@
 
 [![telegram badege](https://img.shields.io/badge/𝐍𝐨𝐛𝐢𝐭𝐚_𝐍𝐨𝐛𝐢-30302f?style=for-the-badge&logo=telegram)](https://t.me/nobitaa_xd)
 [![mailid badge](https://img.shields.io/badge/𝐍𝐨𝐛𝐢𝐭𝐚_𝐍𝐨𝐛𝐢-30302f?style=for-the-badge&logo=gmail)](mailto:uniquesandeepsharma@gmail.com)
-[![Instagram badge](https://img.shields.io/badge/𝐍𝐨𝐛𝐢𝐭𝐚_𝐍𝐨𝐛𝐢-30302F?style=for-the-badge&logo=instagram)](https://instagram.com/_nobitaa_xd)
+[![Instagram badge](https://img.shields.io/badge/𝐍𝐨𝐛𝐢𝐭𝐚_𝐍𝐨𝐛𝐢-30302F?style=for-the-badge&logo=instagram)](https://instagram.com/_nobitaaa_xd)
 [![Twitter badge](https://img.shields.io/badge/𝐍𝐨𝐛𝐢𝐭𝐚_𝐍𝐨𝐛𝐢-30302F?style=for-the-badge&logo=twitter)](https://x.com/nobitaa_xd)
 [![Snapchat badge](https://img.shields.io/badge/𝐍𝐨𝐛𝐢𝐭𝐚_𝐍𝐨𝐛𝐢-30302F?style=for-the-badge&logo=snapchat)](https://www.snapchat.com/add/nobitaa_xd?share_id=PoED6E1q1fc&locale=en-US)
 [![Pinterest badge](https://img.shields.io/badge/𝐍𝐨𝐛𝐢𝐭𝐚_𝐍𝐨𝐛𝐢-30302F?style=for-the-badge&logo=pinterest)](https://pin.it/2RJ6SRT)
