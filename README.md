@@ -9,7 +9,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/nobitaaxd/count.svg" />
 </p>
 
-![nobita](https://github.com/nobitaaaxd/nobitaaaxd/assets/104634763/123f96a7-af9c-48c3-b55b-1ba7064e8d47)
+![IMG_20240307_204711_171](https://github.com/nobitaaaxd/nobitaaaxd/assets/104634763/23cf09f4-e640-403f-83ed-b67e81b468df)
 
 
 
