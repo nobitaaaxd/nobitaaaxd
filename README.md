@@ -1,4 +1,4 @@
-![logo-part2](https://github.com/nobitaaaxd/nobitaaaxd/assets/104634763/c2bc4694-54e7-4aa4-9e32-6f8a545d8424)<h1 align="center"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs 𝐍𝐎𝐁𝐈𝐓𝐀 𝐍𝐎𝐁𝐈 ❤️✨ </h1>
+<h1 align="center"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs 𝐍𝐎𝐁𝐈𝐓𝐀 𝐍𝐎𝐁𝐈 ❤️✨ </h1>
 <h3 align="center">𝐀 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐅𝐫𝐨𝐦  𝐃𝐞𝐥𝐡𝐢,𝐈𝐧𝐝𝐢𝐚 </h3>
 
 
